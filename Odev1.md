@@ -6,7 +6,7 @@ Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 10-C   | Ertuğrul Talha Tekeş | 424
 10-C   | Emin Yiğit Sezer | 479
-10-C   | Mahmut Bingöl | 
+10-C   | Mahmut Bingöl | 434
 
 #  CANDLE IN WATER (SUDAKİ MUM)
 ## Özet
