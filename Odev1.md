@@ -31,10 +31,6 @@ DENEYDEKİ DEĞİŞKENLERİ BULMAK İÇİN;
  DENEYİ YAPTIĞIMIZ ORTAMIN SICAKLIĞIN DENEYE ETKİSİ OLUP OLMADIĞINI ÖĞRENMEK İÇİN FARKLI ORTAMLARDA DENEYECEĞİZ.
  İŞLEMLERİN HEPSİNİ TAMAMLADIKTAN SONRA ÖDEVİMİZİ TESLİM EDECEĞİZ.
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+1) Tom Tit (Arthur Good), La Science Amusante, 3 vols. (Librairie Larousse, Paris, 1st vol.: 1890, 2nd vol.: 1892, 3d vol.: 1893).
+2) H. Kitahata, J. Taguchi, M. Nagayama, T. Sakurai, Y. Ikura, A. Osa, Y. Sumino, M. Tanaka, E. Yokoyama, and H. Miike, “Oscillation and synchronization in the combustion of candles,” J. Phys. Chem. A 113, 8164–8168 (2009)
+3) Tom Tit (Arthur Good), La Science Amusante, 1e série (Librairie Larousse, Paris 1890), pp. 77–78.
