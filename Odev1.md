@@ -8,26 +8,25 @@ Sınıf | Öğrenci İsmi  | Numara
 10-C   | Emin Yiğit Sezer | 479
 10-C   | Mahmut Bingöl | 434
 
-#  CANDLE IN WATER (SUDAKİ MUM)
+# DANCİNG COİN (DANS EDEN MADENİ PARALAR)
 ## Özet
-  İYPT 2017 problemlerinden biri olan bu deneyde; yanan bir mumun suya konulduğunda yüzdüğü belirtiliyor ve bizden bu fenomeni araştırıp açıklamamız isteniyor.
+  İYPT 2017 problemlerinden biri olan bu deneyde;çok soğumuş bir şişenin boynuna bir madeni para koymamızı ve bir zaman sonra hareket edip şişe tabanına düşen madeni paranın neden düştüğünü ve düşüşün bağlı olduğu sebepleri araştırmamız isteniyor.
 
 ### DENEYİN MALZEMELERİ;
    Deneyde kullanılacak malzemeler basit ve kolay ulaşılabilir.
-   Deneyi yaparken gereken malzemeler; bir su kabı,mum ve çakmak.
+   Deneyi yaparken gereken malzemeler; bir şişe ve bir madeni para.
 
 ### DENEYİ NASIL YAPACAĞIZ?
-  1)Öncelikle su kabımızı suyla dolduracağız.
+  1)Şişeyi buzlukta soğumaya bırakcağız.Soğuduğundan emin olabilmek için şişeyi yaklaşık 6 saat buzlukta tutacağız.
   
-  2)Ardından mumu çakmak veya benzeri bir aletle yakacağız.
+  2)Ardından şişeyi buzluktan çıkarıp bekleteceğiz.Paranın şişe tabanına düşmesini bekleyeceğiz
   
-  3)Yanan mumu su kabına dikkatli bir şekilde yerleştireceğiz.
 
-Deneyi, rüzgarın mumu söndürmemesi için kapalı bir alanda yapacağız.Adımları uygularken notlar alıp video çekeceğiz.
+Deneyi,şişeye dışarıdan bi kuvvet uygulanmayacak şekilde yapacağız.
  
  DENEYDE TECRÜBE SAHİBİ OLMAK İÇİN DAHA ÖNCE BU DENEY HAKKINDA YAZILMIŞ MAKALELERİ OKUYACAĞIZ,DENEYİ YAPAN KİŞİLERİN İNTERNETE YÜKLEDİĞİ VİDEOLARI İZLEYECEĞİZ VE DENEYİN AYRINTILARINI ÖĞRENECEĞİZ.
 DENEYDEKİ DEĞİŞKENLERİ BULMAK İÇİN;
- SU KABININ BOYUTUNU,MUMUN BOYUTUNU,YAKICI ALETİ DEĞİŞTİREREK DENEYİ BİR KAÇ DEFA YAPACAĞIZ.
+ ŞİŞENİN SOĞUTULMA SÜRESİNİ DEĞİŞTİREREK BİR KAÇ KERE DAHA DENEYECEĞİZ.
  DENEYİ YAPTIĞIMIZ ORTAMIN DENEYE ETKİSİ OLUP OLMADIĞINI ÖĞRENMEK İÇİN FARKLI ORTAMLARDA DENEYECEĞİZ.
  İŞLEMLERİN HEPSİNİ TAMAMLADIKTAN SONRA ÖDEVİMİZİ TESLİM EDECEĞİZ.
 ## Kaynakçalar  
