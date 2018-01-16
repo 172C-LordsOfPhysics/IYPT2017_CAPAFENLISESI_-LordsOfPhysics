@@ -17,14 +17,16 @@ Sınıf | Öğrenci İsmi  | Numara
    Deneyi yaparken gereken malzemeler; bir şişe ve bir madeni para.
 
 ### DENEYİ NASIL YAPACAĞIZ?
-  1)Şişeyi buzlukta soğumaya bırakcağız.Soğuduğundan emin olabilmek için şişeyi yaklaşık 6 saat buzlukta tutacağız.
+  1)Şişeyi buzlukta soğumaya bırakacağız.(15 DAKİKA)
   
-  2)Ardından şişeyi buzluktan çıkarıp boynuna madeni para yerleştireceğiz.Madeni paranın hareketlerini gözlemleyeceğiz
+  2)Ardından şişeyi buzluktan çıkarıp boynuna madeni para yerleştireceğiz ve madeni paranın hareketlerini gözlemleyeceğiz.
+  
+  3)2.işlemde paranın hareketlerini kameraya kaydedeceğiz.
   
 
 Deneyi,şişeye dışarıdan bir kuvvet uygulanmayacak şekilde yapacağız.
  
- DENEYDE TECRÜBE SAHİBİ OLMAK İÇİN DAHA ÖNCE BU DENEY HAKKINDA YAZILMIŞ MAKALELERİ OKUYACAĞIZ,DENEYİ YAPAN KİŞİLERİN İNTERNETE YÜKLEDİĞİ VİDEOLARI İZLEYECEĞİZ VE DENEYİN AYRINTILARINI ÖĞRENECEĞİZ.
+ DENEY HAKKINDA BİLGİ SAHİBİ OLMAK İÇİN DAHA ÖNCE BU DENEY HAKKINDA YAZILMIŞ MAKALELERİ OKUYACAĞIZ,DENEYİ YAPAN KİŞİLERİN İNTERNETE YÜKLEDİĞİ VİDEOLARI İZLEYECEĞİZ.
 DENEYDEKİ DEĞİŞKENLERİ BULMAK İÇİN;
  ŞİŞENİN SOĞUTULMA SÜRESİNİ DEĞİŞTİREREK BİR KAÇ KERE DAHA DENEYECEĞİZ.
  DENEYİ YAPTIĞIMIZ ORTAMIN DENEYE ETKİSİ OLUP OLMADIĞINI ÖĞRENMEK İÇİN FARKLI ORTAMLARDA DENEYECEĞİZ.
