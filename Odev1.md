@@ -8,7 +8,7 @@ Sınıf | Öğrenci İsmi  | Numara
 10-C   | Emin Yiğit Sezer | 479
 10-C   | Mahmut Bingöl | 434
 
-# DANCING COIN (DANS EDEN MADENİ PARALAR)
+# DANCING COIN (DANS EDEN MADENİ PARA)
 ## Özet
   İYPT 2017 problemlerinden biri olan bu deneyde;çok soğumuş bir şişenin boynuna bir madeni para koymamızı ve bir zaman sonra hareket eden madeni paranın neden ve nelere bağlı olarak hareket ettiğini araştırmamız isteniyor.
 
