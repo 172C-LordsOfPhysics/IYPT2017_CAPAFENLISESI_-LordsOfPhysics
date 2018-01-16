@@ -30,6 +30,9 @@ DENEYDEKİ DEĞİŞKENLERİ BULMAK İÇİN;
  DENEYİ YAPTIĞIMIZ ORTAMIN DENEYE ETKİSİ OLUP OLMADIĞINI ÖĞRENMEK İÇİN FARKLI ORTAMLARDA DENEYECEĞİZ.
  İŞLEMLERİN HEPSİNİ TAMAMLADIKTAN SONRA ÖDEVİMİZİ TESLİM EDECEĞİZ.
 ## Kaynakçalar  
-#https://www.youtube.com/watch?v=tYIo7CfYZMs
+1.https://www.youtube.com/watch?v=tYIo7CfYZMs
 
-#https://www.youtube.com/watch?v=3TjcbvmjqIA
+2.https://www.youtube.com/watch?v=3TjcbvmjqIA
+
+3.Explorable.com (Apr 19, 2011). Magic Jumping Coin Experiment. Retrieved Jan 16, 2018 from Explorable.com: https://explorable.com/magic-jumping-coin-experiment
+
